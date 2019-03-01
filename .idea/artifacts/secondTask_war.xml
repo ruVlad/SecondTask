@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="secondTask:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="polyclinic-spring.war">
+      <element id="artifact" artifact-name="polyclinic-spring:war exploded" />
+    </root>
+  </artifact>
+</component>
